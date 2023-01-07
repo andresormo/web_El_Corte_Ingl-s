@@ -1,0 +1,13 @@
+.b-button{
+    display: flex;
+    background-color: $verde_primary;
+    align-items: center;
+    cursor: pointer;
+    &__nav{
+        flex-direction: column;
+        color: $color_blanco;
+        border-style: none;
+        background-color: $verde_primary;
+        height: 100%;
+    }
+}

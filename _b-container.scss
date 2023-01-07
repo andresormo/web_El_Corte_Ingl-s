@@ -1,0 +1,29 @@
+.b-container{
+    display: flex;
+    justify-content: flex-start;
+    align-content: center;
+    width: 90%;
+    &__header{
+        align-items: center;
+        justify-content: space-between;
+    }
+    &__nav{
+        align-items: center;
+        justify-content: space-between;
+    }
+    &__main_top{
+        align-items: center;
+        justify-content: flex-start;
+    }
+    &__selector{
+        align-items: center;
+        justify-content: space-between;
+    }
+    &__section1{
+        justify-content: space-between;
+    }
+    &__section2{
+        justify-content: space-between;
+        align-items: center;
+    }
+}

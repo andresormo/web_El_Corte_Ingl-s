@@ -1,0 +1,30 @@
+.b-icons{
+    color:$color_main;
+    &--header{
+        font-size: 12px;
+        text-align: center;
+    }
+    &--phone{
+        font-size: 18px;
+    } 
+    &--nav{
+        color: $color_blanco;
+        padding-bottom: 7px;
+        font-size: 22px;
+        font-weight: lighter;
+    }
+    &--main_top{
+        padding: 0px 2px 0px 2px;
+    }
+    &--section1{
+        padding-left: 5px;
+        color: $verde_primary;
+    }
+    &--section2{
+        display: block;
+        text-align: center;
+        color: $verde_primary;
+        font-size: 33px;
+    }
+  
+}

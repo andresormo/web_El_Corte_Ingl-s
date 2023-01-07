@@ -1,0 +1,84 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?xg7tql');
+  src:  url('fonts/icomoon.eot?xg7tql#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?xg7tql') format('truetype'),
+    url('fonts/icomoon.woff?xg7tql') format('woff'),
+    url('fonts/icomoon.svg?xg7tql#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-chevron-right:before {
+  content: "\e911";
+}
+.icon-bars-solid:before {
+  content: "\e912";
+}
+.icon-star:before {
+  content: "\e900";
+}
+.icon-youtube:before {
+  content: "\e901";
+}
+.icon-instagram:before {
+  content: "\e902";
+}
+.icon-twitter:before {
+  content: "\e903";
+}
+.icon-facebook:before {
+  content: "\e905";
+}
+.icon-beach:before {
+  content: "\e907";
+}
+.icon-suitcase:before {
+  content: "\e908";
+}
+.icon-person-walking:before {
+  content: "\e909";
+}
+.icon-person-cane:before {
+  content: "\e90a";
+}
+.icon-cable-car:before {
+  content: "\e90b";
+}
+.icon-map-location:before {
+  content: "\e90c";
+}
+.icon-hotel:before {
+  content: "\e90d";
+}
+.icon-plane-departure:before {
+  content: "\e90e";
+}
+.icon-phone:before {
+  content: "\e90f";
+}
+.icon-info:before {
+  content: "\e910";
+}
+.icon-location:before {
+  content: "\e904";
+}
+.icon-user:before {
+  content: "\e906";
+}

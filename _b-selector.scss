@@ -1,0 +1,16 @@
+.b-selector{
+ 
+   height: 35px;
+   border-style: none;
+   margin-bottom: 10px;
+   margin-top: 10px;
+  
+   &__item{
+    width:fit-content;
+    background-color: $verde_primary;
+    color:$color_blanco;
+    text-align: center;
+    padding-right: 10px;
+    box-shadow: 0px 0px 1px 0px gray;
+   }
+}
