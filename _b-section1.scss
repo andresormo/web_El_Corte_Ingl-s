@@ -59,7 +59,12 @@ padding-top: 0;
         background-color: $verde_primary;
         color: $color_blanco;
     }
-
+    &--button:hover .b-icons--section1{
+        
+        color: $color_blanco;
+    }
 }
 
 }
+
+

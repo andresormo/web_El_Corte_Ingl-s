@@ -175,6 +175,9 @@ body {
   background-color: #67b500;
   color: rgb(255, 255, 255);
 }
+.b-section1__ofert--button:hover .b-icons--section1 {
+  color: rgb(255, 255, 255);
+}
 
 .b-selector {
   height: 35px;
